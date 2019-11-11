@@ -16,3 +16,4 @@ Usage: SharpSQLDump.exe -h ip -u username -p password -mysql
        SharpSQLDump.exe -h ip -u username -p password -mssql
 ```
    
+![](https://github.com/uknowsec/SharpSQLDump/blob/master/8b01108faae90a.jpg)
