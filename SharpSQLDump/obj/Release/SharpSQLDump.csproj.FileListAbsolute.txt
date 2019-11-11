@@ -1,0 +1,1 @@
+D:\vscode\c_test\SharpSQLDump\SharpSQLDump\bin\Release\SharpSQLDump.exe.config
