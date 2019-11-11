@@ -6,6 +6,7 @@
 
 ## 使用方法
 
+```
 > SharpSQLDump.exe
 
 Author: Uknow
@@ -13,5 +14,5 @@ Github: https://github.com/uknowsec/SharpSQLDump
 
 Usage: SharpSQLDump.exe -h ip -u username -p password -mysql
        SharpSQLDump.exe -h ip -u username -p password -mssql
-       
+```
    
